@@ -8,7 +8,7 @@ This repository wraps [phplist](https://github.com/phpList/phplist3) in a Docker
 
 ## Docker Hub
 
-Built images are available at [Docker Hub](https://hub.docker.com/r/xjonathanlei/phplist).
+Built images are available at [Docker Hub](https://hub.docker.com/r/coinpiu/phplist).
 
 ## Mandatory Environment Variables
 
